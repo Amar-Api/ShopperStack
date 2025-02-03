@@ -3,4 +3,11 @@
   <groupId>Qspider</groupId>
   <artifactId>shoperstack</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.selenium.automation</groupId>
+  		<artifactId>AutomationFramework</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
