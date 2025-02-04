@@ -7,5 +7,6 @@ public class LearnForkAndPull {
      @Test
      public void login() {
     	 Reporter.log("Fork and pull", true);
+    	 Reporter.log("Fork and pull", true);
      }
 }
